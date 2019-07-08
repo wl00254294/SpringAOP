@@ -10,8 +10,8 @@ public class SpringAopApplication {
 
 	public static void main(String[] args) {
 		
-		//System.out.println("2019-07-08");
-		//fetch from master2
+		//ssss
+
 		SpringApplication.run(SpringAopApplication.class, args);
 	}
 
