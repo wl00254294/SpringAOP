@@ -9,6 +9,8 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 public class SpringAopApplication {
 
 	public static void main(String[] args) {
+		
+		//System.out.println("2019-07-08");
 		SpringApplication.run(SpringAopApplication.class, args);
 	}
 
